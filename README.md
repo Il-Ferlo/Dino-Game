@@ -1,7 +1,7 @@
 # :it:
 
 ### Descrizione 
-progetto ispirato da questi [video](https://youtube.com/playlist?list=PL30AETbxgR-fAbwiuU1vDl3owNUPUuVrz&si=oBY6kvBnuyjC4_pX)
+progetto ispirato da questa [playlist](https://youtube.com/playlist?list=PL30AETbxgR-fAbwiuU1vDl3owNUPUuVrz&si=oBY6kvBnuyjC4_pX)
 ### Librerie usate:
   - `pygame`, versione: `2.6.0` ( **NOTA**: dipendenza da `numpy` )
  
