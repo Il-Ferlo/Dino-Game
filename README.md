@@ -15,6 +15,12 @@ progetto ispirato da questa [playlist](https://youtube.com/playlist?list=PL30AET
   - [ ] aggiungere un grafico generale del andamento dei punti di tutti i player 
   - [ ] migliorare o correggere (se possibile) alcune hitbox 
   - [ ] migliorare l'estetica dello sfondo del gioco 
+
+
+#### NOTA
+versione di Python usata: `3.12.3`
+
+---
   
 # :uk: / :us:
 
@@ -36,6 +42,7 @@ project inspired by this YouTube [playlist](https://youtube.com/playlist?list=PL
   - [ ] improve the game's background aesthetic 
 
 
-
+#### NOTE 
+Python version used: `3.12.3`
 
 
