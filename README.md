@@ -3,7 +3,7 @@
 ### Descrizione 
 progetto ispirato da questa [playlist](https://youtube.com/playlist?list=PL30AETbxgR-fAbwiuU1vDl3owNUPUuVrz&si=oBY6kvBnuyjC4_pX)
 ### Librerie usate:
-  - `PyGame`, versione: `2.6.0` ( **NOTA**: dipendenza da `NumPy` )
+  - `PyGame`, versione: `2.6.0`
  
 ### Comandi gioco:
    - `esc` per tornare al menù (comando globale)
@@ -28,7 +28,7 @@ versione di Python usata: `3.12.3`
 project inspired by this YouTube [playlist](https://youtube.com/playlist?list=PL30AETbxgR-fAbwiuU1vDl3owNUPUuVrz&si=oBY6kvBnuyjC4_pX)
 
 ### Used libraries:
-  - `PyGame`, version: `2.6.0` ( **NOTE**: dependence by `NumPy` )
+  - `PyGame`, version: `2.6.0` 
 
 ### Game Controls:
    - `esc` to back to menu (global command)
