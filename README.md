@@ -1,7 +1,5 @@
 # :it:
 
-### Descrizione 
-progetto ispirato da questa [playlist](https://youtube.com/playlist?list=PL30AETbxgR-fAbwiuU1vDl3owNUPUuVrz&si=oBY6kvBnuyjC4_pX)
 ### Librerie usate:
   - `PyGame`, versione: `2.6.0`
  
@@ -23,9 +21,6 @@ versione di Python usata: `3.12.3`
 ---
   
 # :uk: / :us:
-
-### Description 
-project inspired by this YouTube [playlist](https://youtube.com/playlist?list=PL30AETbxgR-fAbwiuU1vDl3owNUPUuVrz&si=oBY6kvBnuyjC4_pX)
 
 ### Used libraries:
   - `PyGame`, version: `2.6.0` 
