@@ -26,7 +26,7 @@ versione di Python usata: `3.12.3`
   - `PyGame`, version: `2.6.0` 
 
 ### Game Controls:
-   - `esc` to back to menu (global command)
+   - `esc` back to menu (global command)
    - `up arrow` to jump
    - `down arrow` to duck
    - `enter key` to confirm your nickname and subsequently play
